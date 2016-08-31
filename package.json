@@ -7,7 +7,7 @@
   "author": {
     "name": "Alfonso Muñoz-Pomer Fuentes <amunoz@ebi.ac.uk>"
   },
-  "main": "modernizr.3.0.0-alpha3",
+  "main": "modernizr-csstransforms.min.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alfonsomunozpomer/atlas-modernizr.git"
